@@ -89,6 +89,11 @@ const leadership = {
   }
 };
 
+const publications = {
+  show: false,
+  heading: "Publications",
+};
+
 // SKILLS SECTION
 const skills = {
   show: true,
@@ -131,12 +136,12 @@ const experiences = {
   data: [
     {
       role: 'Optimization Analyst Intern',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
+      companylogo: require('../assets/img/pnnl.jpg'),
       date: 'June 2021 – Present',
     },
     {
       role: 'Optimization & Machine Learning Intern',
-      companylogo: require('../assets/img/boeing.png'),
+      companylogo: require('../assets/img/enstoa.png'),
       date: 'June 2019 – August 2019',
     },
   ]
@@ -147,4 +152,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, skills, publications, leadership, getInTouch, experiences };
