@@ -95,12 +95,13 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python (Numpy, scikit-learn, TensorFlow)", value: 90 },
-    { name: "CPLEX", value: 75 },
-    { name: "CVX Framework", value: 85 },
-    { name: "GUROBI", value: 65 },
+    { name: "CPLEX", value: 90 },
+    { name: "CVX Framework", value: 90 },
+    { name: "GUROBI", value: 90 },
     { name: "MOSEK", value: 90 },
-    { name: "MATLAB", value: 65 },
-    { name: "C", value: 55 },
+    { name: "MATLAB", value: 90 },
+    { name: "C", value: 50 },
+    { name: "SQL", value: 70 },
     
   ],
   softSkills: [
@@ -129,14 +130,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Optimization Analyst Intern',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      date: 'June 2021 – Present',
     },
     {
-      role: 'Front-End Developer',
+      role: 'Optimization & Machine Learning Intern',
       companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      date: 'June 2019 – August 2019',
     },
   ]
 }
