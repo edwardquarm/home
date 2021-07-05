@@ -13,12 +13,9 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/edwardquarm",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
+    
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/hashirshoaeb/",
@@ -27,10 +24,7 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/hashirshoaeb/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    
   ],
 };
 
