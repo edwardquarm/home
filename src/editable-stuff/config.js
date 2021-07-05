@@ -18,11 +18,11 @@ const mainBody = {
     
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/ed_quarm/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/edward-quarm/",
     },
     
   ],
@@ -48,8 +48,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "Hello! My name is Edward Quarm and I am a Numerical Optimization Engineer from the University of Texas at Arlington. I will be graduating with a Ph.D. in Electrical Engineering in December 2021. I am passionate about working on algorithms which help machines think independently. In my free time I like working on photography and videography projects.",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -60,7 +60,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "edwardquarm", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -94,14 +94,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Python (Numpy, scikit-learn, TensorFlow)", value: 90 },
+    { name: "CPLEX", value: 75 },
+    { name: "CVX Framework", value: 85 },
+    { name: "GUROBI", value: 65 },
+    { name: "MOSEK", value: 90 },
+    { name: "MATLAB", value: 65 },
+    { name: "C", value: 55 },
+    
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -125,7 +125,7 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
