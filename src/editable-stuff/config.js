@@ -90,7 +90,7 @@ const leadership = {
 };
 
 const publications = {
-  show: false,
+  show: true,
   heading: "Publications",
 };
 
