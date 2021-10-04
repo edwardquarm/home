@@ -137,7 +137,7 @@ const experiences = {
     {
       role: 'Optimization Analyst Intern',// Here Add Company Name
       companylogo: require('../assets/img/pnnl.jpg'),
-      date: 'June 2021 – Present',
+      date: 'June 2021 – September 2021',
     },
     {
       role: 'Optimization & Machine Learning Intern',
