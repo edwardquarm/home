@@ -103,10 +103,12 @@ const skills = {
     { name: "CPLEX", value: 90 },
     { name: "CVX Framework", value: 90 },
     { name: "GUROBI", value: 90 },
+    { name: "GAMS", value: 60 },
     { name: "MOSEK", value: 90 },
     { name: "MATLAB", value: 90 },
     { name: "C", value: 50 },
-    { name: "SQL", value: 70 },
+    { name: "SQL", value: 60 },
+    { name: "SAS", value: 60 },
     
   ],
   softSkills: [
@@ -126,7 +128,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Electricity Market Optimization or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at,",
+    "I'm currently looking for full-time Electricity Market Optimization or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "edwardarthur.quarmjnr@mavs.uta.edu",
 };
 
@@ -135,7 +137,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Optimization Analyst Intern',// Here Add Company Name
+      role: 'Analytics Intern',// Here Add Company Name
       companylogo: require('../assets/img/pnnl.jpg'),
       date: 'June 2021 – September 2021',
     },
