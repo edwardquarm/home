@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Edward",
   middleName: "",
   lastName: "Quarm",
-  message: " | Engineer | Electricity Markets | Optimization | Data Scientist | Videographer | ",
+  message: " | Engineer | Data Scientist | Optimization | Electricity Markets | Videographer | ",
   icons: [
     {
       image: "fa-github",
