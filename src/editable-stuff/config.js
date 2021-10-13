@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Edward",
   middleName: "",
   lastName: "Quarm",
-  message: " | Engineer | Data Scientist | Optimization | Electricity Markets | Videographer | ",
+  message: " | Engineer | Data Scientist | Optimization | Software development | Videographer | ",
   icons: [
     {
       image: "fa-github",
@@ -128,7 +128,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Electricity Market Optimization or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Numerical Optimization or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "edwardarthur.quarmjnr@mavs.uta.edu",
 };
 
