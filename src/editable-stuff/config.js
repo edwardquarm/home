@@ -49,7 +49,7 @@ const about = {
   imageSize: 375,
   message:
     "Hello! My name is Edward Quarm and I am a Numerical Optimization Engineer from the University of Texas at Arlington. I will be graduating with a Ph.D. in Electrical Engineering in December 2021. I am passionate about working on algorithms which help machines think independently. In my free time I like working on photography and videography projects.",
-  resume: require("../editable-stuff/CV.pdf"),
+  resume: require("../editable-stuff/Resume.pdf"),
 };
 
 // PROJECTS SECTION
