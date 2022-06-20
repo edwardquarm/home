@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Edward",
   middleName: "",
   lastName: "Quarm",
-  message: " | Engineer | Data Scientist | Optimization | Software development | Videographer | ",
+  message: " | Machine Learning Engineer | Optimization Scientist | Electrical Engineer | Photgraphy |",
   icons: [
     {
       image: "fa-github",
@@ -48,8 +48,8 @@ const about = {
   imageLink: require("../editable-stuff/picture.jpg"),
   imageSize: 375,
   message:
-    "Hello! My name is Edward Quarm and I am a Numerical Optimization Engineer from the University of Texas at Arlington. I will be graduating with a Ph.D. in Electrical Engineering in December 2021. I am passionate about working on algorithms which help machines think independently. In my free time I like working on photography and videography projects.",
-  resume: require("../editable-stuff/Resume.pdf"),
+    "Hello! My name is Edward Quarm and I am a Data Scientist at Xerox Corporation in the Print Quality and Systems Integration Team. My experience is in developing end-to-end data science solutions, developing RNN algorithms for anomaly detection of IOT sensors, automating data ingest into cloud environments (Oracle Cloud Infrastructure (OCI), AWS , Azure) and fault detection in industrial processes.",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -99,16 +99,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python (Numpy, scikit-learn, TensorFlow)", value: 90 },
-    { name: "CPLEX", value: 90 },
-    { name: "CVX Framework", value: 90 },
-    { name: "GUROBI", value: 90 },
-    { name: "GAMS", value: 80 },
-    { name: "MOSEK", value: 90 },
-    { name: "MATLAB", value: 100 },
-    { name: "C", value: 70 },
-    { name: "SQL", value: 60 },
-    { name: "SAS", value: 60 },
+    { name: "Python (CNNs, RNNs, AutoML, TensorFlow)", value: 100 },
+    { name: "CPLEX", value: 100 },
+    { name: "CVX Framework", value: 100 },
+    { name: "GUROBI", value: 100 },
+    { name: "Oracle Cloud / Microsoft Azure", value: 100 },
+    { name: "OML4PY", value: 100 },
+    { name: "SQL", value: 100 },
+    { name: "Oracle APEX", value: 90 },
     
   ],
   softSkills: [
@@ -128,14 +126,19 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Numerical Optimization or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "edwardarthur.quarmjnr@mavs.uta.edu",
+    "I'm currently looking for full-time Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "equarmjnr@gmail.com",
 };
 
 const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+    {
+      role: 'Data Scientist Print Quality',// Here Add Company Name
+      companylogo: require('../assets/img/Xerox-logo.png'),
+      date: 'January 2022 – Present',
+    },
     {
       role: 'Analytics Intern',// Here Add Company Name
       companylogo: require('../assets/img/pnnl.jpg'),
