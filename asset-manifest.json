@@ -1,27 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.9d79d83d.chunk.css",
-    "main.js": "/home/static/js/main.a27f2324.chunk.js",
-    "main.js.map": "/home/static/js/main.a27f2324.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.ecc539e9.chunk.js": "/home/static/js/2.ecc539e9.chunk.js",
-    "static/js/2.ecc539e9.chunk.js.map": "/home/static/js/2.ecc539e9.chunk.js.map",
+    "main.css": "/home/static/css/main.8532127e.css",
+    "main.js": "/home/static/js/main.ee2c6cf2.js",
+    "static/media/picture.jpg": "/home/static/media/picture.36815a1982133b060de8.jpg",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/resume.pdf": "/home/static/media/resume.0026f01f0bd7677a723b.pdf",
+    "static/media/pnnl.jpg": "/home/static/media/pnnl.3e837852c62ae51b89cc.jpg",
+    "static/media/Xerox-logo.png": "/home/static/media/Xerox-logo.3836b979030778112e0c.png",
     "index.html": "/home/index.html",
-    "precache-manifest.44ee32779cbd61ccc3843e5827c8fb15.js": "/home/precache-manifest.44ee32779cbd61ccc3843e5827c8fb15.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.9d79d83d.chunk.css.map": "/home/static/css/main.9d79d83d.chunk.css.map",
-    "static/js/2.ecc539e9.chunk.js.LICENSE.txt": "/home/static/js/2.ecc539e9.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/home/static/media/Resume.57234b34.pdf",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/picture.jpg": "/home/static/media/picture.c67b979d.jpg",
-    "static/media/pnnl.jpg": "/home/static/media/pnnl.20b471c8.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.57234b34.pdf"
+    "main.8532127e.css.map": "/home/static/css/main.8532127e.css.map",
+    "main.ee2c6cf2.js.map": "/home/static/js/main.ee2c6cf2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
-    "static/js/2.ecc539e9.chunk.js",
-    "static/css/main.9d79d83d.chunk.css",
-    "static/js/main.a27f2324.chunk.js"
+    "static/css/main.8532127e.css",
+    "static/js/main.ee2c6cf2.js"
   ]
 }
