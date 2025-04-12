@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.8532127e.css",
-    "main.js": "/home/static/js/main.ee2c6cf2.js",
+    "main.css": "/home/static/css/main.e6fc0c0e.css",
+    "main.js": "/home/static/js/main.4d0c3abb.js",
     "static/media/picture.jpg": "/home/static/media/picture.36815a1982133b060de8.jpg",
     "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/resume.pdf": "/home/static/media/resume.0026f01f0bd7677a723b.pdf",
     "static/media/pnnl.jpg": "/home/static/media/pnnl.3e837852c62ae51b89cc.jpg",
     "static/media/Xerox-logo.png": "/home/static/media/Xerox-logo.3836b979030778112e0c.png",
     "index.html": "/home/index.html",
-    "main.8532127e.css.map": "/home/static/css/main.8532127e.css.map",
-    "main.ee2c6cf2.js.map": "/home/static/js/main.ee2c6cf2.js.map"
+    "main.e6fc0c0e.css.map": "/home/static/css/main.e6fc0c0e.css.map",
+    "main.4d0c3abb.js.map": "/home/static/js/main.4d0c3abb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8532127e.css",
-    "static/js/main.ee2c6cf2.js"
+    "static/css/main.e6fc0c0e.css",
+    "static/js/main.4d0c3abb.js"
   ]
 }
