@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Edward",
   middleName: "",
   lastName: "Quarm",
-  message: " | Machine Learning Engineer | Optimization Scientist | Electrical Engineer | Photgraphy |",
+  message: " | Machine Learning Engineer | Optimization Scientist | Software Engineer | AI Consultant |",
   icons: [
     {
       image: "fa-github",
@@ -48,7 +48,7 @@ const about = {
   imageLink: require("../editable-stuff/picture.jpg"),
   imageSize: 375,
   message:
-    "Hello! My name is Edward Quarm and I am a Data Scientist at Xerox Corporation in the Print Quality and Systems Integration Team. My experience is in developing end-to-end data science solutions, developing RNN algorithms for anomaly detection of IOT sensors, automating data ingest into cloud environments (Oracle Cloud Infrastructure (OCI), AWS , Azure) and fault detection in industrial processes.",
+    "Hello! My name is Edward Quarm and I am a Senior Software Engineer at Red Hat OpenShift AI (RHOAI) in the Model Serving Runtimes Team. I have 5+ years of experience building scalable Generative AI systems (Text, Image and Audio) using Open-source software on cloud environments (AWS , Azure and Google Cloud).",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -99,12 +99,12 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python (CNNs, RNNs, AutoML, TensorFlow)", value: 100 },
-    { name: "CPLEX", value: 100 },
-    { name: "CVX Framework", value: 100 },
-    { name: "GUROBI", value: 100 },
-    { name: "Oracle Cloud / Microsoft Azure", value: 100 },
-    { name: "OML4PY", value: 100 },
+    { name: "Kubernetes (Istio, ArgoCD, KServe, Ray, GPUs)", value: 100 },
+    { name: "Python (CNNs, PyTorch, TensorFlow)", value: 100 },
+    { name: "Runtime (Triton, TorchServe, FastAPI, OpenVINO)", value: 100 },
+    { name: "Large Language Models (RAGs, Agents, VLLM, Tuning)", value: 100 },
+    { name: "AWS, GCP, Azure", value: 100 },
+    { name: "Kubeflow Pipelines", value: 100 },
     { name: "SQL", value: 100 },
     { name: "Oracle APEX", value: 90 },
     
@@ -126,7 +126,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking to collaborate on open-source projects! If you're interested, have any questions, or you just want to say hi, please feel free to email me at",
   email: "equarmjnr@gmail.com",
 };
 
@@ -135,17 +135,27 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Data Scientist Print Quality',// Here Add Company Name
-      companylogo: require('../assets/img/Xerox-logo.png'),
-      date: 'January 2022 – Present',
+      role: 'Senior Software Engineer OpenShift AI',
+      companylogo: require('../assets/img/redhat.png'),
+      date: 'February 2025 – Present',
     },
     {
-      role: 'Analytics Intern',// Here Add Company Name
+      role: 'Machine Learning Engineer',
+      companylogo: require('../assets/img/lore.png'),
+      date: 'September 2022 – February 2025',
+    },
+    {
+      role: 'Data Scientist Print Quality',
+      companylogo: require('../assets/img/Xerox-logo.png'),
+      date: 'January 2022 – September 2022',
+    },
+    {
+      role: 'Optimization Intern',
       companylogo: require('../assets/img/pnnl.jpg'),
       date: 'June 2021 – September 2021',
     },
     {
-      role: 'Optimization & Machine Learning Intern',
+      role: 'Machine Learning Intern',
       companylogo: require('../assets/img/enstoa.png'),
       date: 'June 2019 – August 2019',
     },
